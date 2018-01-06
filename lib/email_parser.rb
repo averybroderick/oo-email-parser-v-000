@@ -15,8 +15,6 @@ class EmailParser
     parsed = []
 
     @parse_me.split("")
-
-    parsed
   end
 
 end
