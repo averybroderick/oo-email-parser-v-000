@@ -9,7 +9,7 @@ class EmailParser
     @parse_me = string
   end
 
-  def self.parse
+  def parse
   end
 
 end
