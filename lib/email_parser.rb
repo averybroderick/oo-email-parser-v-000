@@ -10,7 +10,8 @@ class EmailParser
   end
 
   def parse
-    
+    parsed = []
+    parsed
   end
 
 end
